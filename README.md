@@ -1,7 +1,5 @@
 # Rails Watch List
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 Rails Watch List is a movie watchlist application where users can create lists and bookmark movies to those lists. Built with Rails 7.1, PostgreSQL, and Bootstrap 5.
